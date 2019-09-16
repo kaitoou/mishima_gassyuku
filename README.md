@@ -5,4 +5,4 @@
 ##　今回のお宿　[ドーミーイン三島](https://www.hotespa.net/hotels/mishima/)
 
 
-！[img](https://www.hotespa.net/hotels/mishima/image/img_room_01.jpg)
+
