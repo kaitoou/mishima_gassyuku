@@ -9,6 +9,11 @@
 ![iOS の画像](https://user-images.githubusercontent.com/48924412/64964513-2c56d580-d8d6-11e9-9df7-f5c87731c9ff.jpg)
 
 
+温泉（写真はないですが）がとても良い！
+
+wifiルーターを借りれば通信速度もなかなか速い
+
+
 ## 前乗りの日にAWSのつなぎ方等を学習
 
 ```open -e```　の威力に驚く
@@ -16,3 +21,5 @@
 公開鍵の取得
 
 sshにikraをcloneしてみたり、Rstudioを立ち上げてみたり
+
+AWSなかなかややこしい汗
