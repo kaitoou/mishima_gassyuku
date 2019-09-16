@@ -4,7 +4,8 @@
 
 ## 今回のお宿　[ドーミーイン三島](https://www.hotespa.net/hotels/mishima/)
 
-![IMG_4174](https://user-images.githubusercontent.com/48924412/64961997-991ba100-d8d1-11e9-8aa6-070f627da40d.jpg)
+![image1](https://user-images.githubusercontent.com/48924412/64963276-f57fc000-d8d3-11e9-8914-a6d55a4ad875.jpeg)
+
 
 
 ## 前乗りの日にAWSのつなぎ方等を学習
