@@ -37,4 +37,6 @@ DBCLSに到着
 
 ご飯が並盛りとは思えないレベルのボリューム！とても美味しい
 
-![iOS の画像 (3)](https://user-images.githubusercontent.com/48924412/65013210-2fdd7180-d955-11e9-8ed8-99fd42b6f55d.jpg)
+
+
+<img src="https://user-images.githubusercontent.com/48924412/65013210-2fdd7180-d955-11e9-8ed8-99fd42b6f55d.jpg" width="200">
