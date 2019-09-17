@@ -73,3 +73,5 @@ DBCLSに到着
  ```proc name(): #defではない！```
 
 ```return```の他に```result```も考える。
+
+ループとか条件分岐とかは、pythonとほぼ同じ
