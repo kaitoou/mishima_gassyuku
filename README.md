@@ -40,6 +40,10 @@ DBCLSに到着
 
 <img src="https://user-images.githubusercontent.com/48924412/65013210-2fdd7180-d955-11e9-8ed8-99fd42b6f55d.jpg" width="200">
 
+コマンドラインの使い方　了
+
+発現解析に移行
+
 
 ### nimの勉強を開始
 
@@ -47,6 +51,8 @@ DBCLSに到着
 
  VScodeの拡張機能でできるみたい？→できた！
 
+ Jupyter notebookでやろうとしたらエラーが出る
+
  関数は基本pythonと同じ感じ？
 
- 変数宣言だけ慣れない
+ 変数宣言が特に慣れない
