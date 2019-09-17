@@ -6,7 +6,8 @@
 
 宿からの景色（写真は更新していく予定）↓
 
-![iOS の画像](https://user-images.githubusercontent.com/48924412/64964513-2c56d580-d8d6-11e9-9df7-f5c87731c9ff.jpg)
+<img src="https://user-images.githubusercontent.com/48924412/64964513-2c56d580-d8d6-11e9-9df7-f5c87731c9ff.jpg" width="400">
+
 
 
 温泉（写真はまだないですが）がとても良い！
@@ -37,6 +38,9 @@ DBCLSに到着
 
 ご飯が並盛りとは思えないレベルのボリューム！とても美味しい
 
-
-
 <img src="https://user-images.githubusercontent.com/48924412/65013210-2fdd7180-d955-11e9-8ed8-99fd42b6f55d.jpg" width="200">
+
+
+### nimの勉強を開始
+
+ そもそも環境構築からスタート
