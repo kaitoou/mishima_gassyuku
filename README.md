@@ -94,6 +94,8 @@ DBCLSに到着
 
 とても美味しいお寿司！特に生しらす軍艦が美味しい
 
+ご馳走様ですm(_ _)m
+
 <img src="https://user-images.githubusercontent.com/48924412/65120743-13ab0480-da29-11e9-867a-4a300a26a36b.jpg" width="200" rotate="90">
 
 ikra.shへの初めてのPull Request
