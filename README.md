@@ -6,11 +6,11 @@
 
 宿からの景色
 
-<img src="https://user-images.githubusercontent.com/48924412/64964513-2c56d580-d8d6-11e9-9df7-f5c87731c9ff.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48924412/64964513-2c56d580-d8d6-11e9-9df7-f5c87731c9ff.jpg" width="300">
 
 温泉がとても良い！
 
-<img src="https://user-images.githubusercontent.com/48924412/65252596-36760f80-db34-11e9-9083-ce9dfb60bc59.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/48924412/65252596-36760f80-db34-11e9-9083-ce9dfb60bc59.jpg" width="300">
 
 wifiルーターを借りれば通信速度もなかなか速い
 
