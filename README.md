@@ -67,7 +67,7 @@ DBCLSに到着
 
 <img src="https://user-images.githubusercontent.com/48924412/65120743-13ab0480-da29-11e9-867a-4a300a26a36b.jpg" width="200" rotate="90">
 
-ikra.shへの初めてのPull Request
+ikraへの初めてのPull Request
 
 
 
@@ -110,3 +110,5 @@ ikra.shへの初めてのPull Request
 ループとか条件分岐とかは、pythonとほぼ同じ
 
 拡張機能でCode Runnerを入れると快適になった
+
+代数計算パッケージとしてneoを使っていく予定
