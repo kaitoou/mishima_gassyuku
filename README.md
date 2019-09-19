@@ -69,6 +69,9 @@ DBCLSに到着
 
 ikraへの初めてのPull Request
 
+## 三日目　19/9/19
+
+nimについて学びつつRNAseq
 
 
 
@@ -103,7 +106,7 @@ ikraへの初めてのPull Request
 
  #### 関数定義
 
- ```proc name(): #defではない！```
+ ```#defではない！```
 
 ```return```の他に```result```も考える。
 
