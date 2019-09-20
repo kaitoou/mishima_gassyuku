@@ -79,7 +79,7 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ・nimについてわかったことなどを[Googleドキュメント](https://docs.google.com/document/d/1hReGudWqvT0wp_ZeaoK2Jnh55IkOp7fv0iRXtI7MTwg/edit)にまとめていくことに決定
 
-Previewでは向きが変わっているのにブラウザに反映されない問題発生
+>>Previewでは向きが変わっているのにブラウザに反映されない問題発生
 
 <img width="300" alt="スクリーンショット 2019-09-19 23 30 38" src="https://user-images.githubusercontent.com/48924412/65253587-d8e2c280-db35-11e9-9320-f7bcf4d5252d.png">
 
@@ -162,6 +162,7 @@ Previewでは向きが変わっているのにブラウザに反映されない�
 ### >19/9/19
 #### >>昼
 写真を撮り忘れる痛恨のミス
+
 油そば(広義タピオカ)　七転八起
 
 #### >>夜
