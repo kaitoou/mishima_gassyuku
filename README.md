@@ -152,6 +152,9 @@ Previewでは向きが変わっているのにブラウザに反映されない�
 ### >19/9/18
 #### >>昼
 激ウマ　お寿司　もろこし
+
+ごちそうさまでしたm(_ _)m
+
 <div style="position:relative;left:70px;top:200px">
 <img src="https://user-images.githubusercontent.com/48924412/65120743-13ab0480-da29-11e9-867a-4a300a26a36b.jpg" width="200" style="transform: rotate(90deg);transform-origin:right top;">
 </div>
