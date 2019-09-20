@@ -57,6 +57,9 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ・初めての[Pull Request](https://github.com/yyoshiaki/ikra/pull/51)
 
+・逆転写しにくいRNAがあることがあることを聞く。逆に言えばRNAが安定？
+
+
 
 ## ３日目　19/9/19
 ・今日は念願の富士山が見えた！
@@ -64,6 +67,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 
 <img src="https://user-images.githubusercontent.com/48924412/65228259-1ed36280-db05-11e9-98ee-df3b532c1b37.jpg" width="300" >
+
+・寄生蜂　セイボウとかが好きで、寄生蜂のことは知っていたが、一つの胚から多数のソルジャーが生まれることは知らなかった。
 
 ・nimについて学びつつRNAseq
 
@@ -103,7 +108,7 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 
 
-### [nimの勉強](https://docs.google.com/document/d/1hReGudWqvT0wp_ZeaoK2Jnh55IkOp7fv0iRXtI7MTwg/edit)
+## [nimの勉強](https://docs.google.com/document/d/1hReGudWqvT0wp_ZeaoK2Jnh55IkOp7fv0iRXtI7MTwg/edit)
 
 ・そもそも環境構築からスタート
 
