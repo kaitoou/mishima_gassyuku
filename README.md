@@ -83,8 +83,27 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 <img width="300" alt="スクリーンショット 2019-09-19 23 30 38" src="https://user-images.githubusercontent.com/48924412/65253587-d8e2c280-db35-11e9-9320-f7bcf4d5252d.png">
 
+## 4日目　19/9/20
 
-### nimの勉強
+・githubをHPにできる機能があることを先輩から教えてもらう
+
+・RNAseqの解析　kallisto
+
+・nimの勉強(詳細はGoogleドキュメントや↓のコーナーを)
+
+・先生に[データベースの利用法](https://www.amazon.co.jp/%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%96%E3%83%84%E3%83%BC%E3%83%AB-%E5%9B%B3%E8%A7%A3%E3%81%A8%E5%8B%95%E7%94%BB%E3%81%A7%E4%BD%BF%E3%81%84%E6%96%B9%E3%81%8C%E3%82%8F%E3%81%8B%E3%82%8B-%E7%A0%94%E7%A9%B6%E3%81%8C%E3%81%AF%E3%81%8B%E3%81%A9%E3%82%8B%E5%AE%9A%E7%95%AA18%E9%81%B8-%E5%9D%8A%E8%BE%B2%E7%A7%80%E9%9B%85/dp/4815701431)を教えていただく
+
+・CHIP-Atlas,Metascape,COSMIC,gnomAD,TogoVar,GWASあたり使えるようになりたい
+
+・gitpitchかっこいい！
+
+・[Allie](http://allie.dbcls.jp/short/exact/Any/CWL.html)
+
+・お土産やさんに連れて行っていただきありがとうございましたm(_ _)m
+
+
+
+### [nimの勉強](https://docs.google.com/document/d/1hReGudWqvT0wp_ZeaoK2Jnh55IkOp7fv0iRXtI7MTwg/edit)
 
 ・そもそも環境構築からスタート
 
@@ -109,6 +128,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ・```return```の他に```result```も考える。
 
+・```proc(引数):データ型 =  ```
+
 #### その他
 ・ループとか条件分岐とかは、pythonとほぼ同じ
 
@@ -117,6 +138,13 @@ wifiルーターを借りれば通信速度もなかなか速い
 ・代数計算パッケージとしてneoを使っていく予定
 
 ・他にも見つけたので、一考の余地あり
+
+・split関数はあるが、pythonと少し違って区切る文字によって様々種類があり、引数とかもかなり変わる
+
+・"."で関数繋いでいくやり方はなんかうまく生きにくいので引数として重ねていくスタイルがいいような気がする
+
+・データ型も自分で作れたり、慣れればなんでもできる素晴らしい関数であることを感じてきた。
+
 
 
 ### nimdata
@@ -171,3 +199,9 @@ wifiルーターを借りれば通信速度もなかなか速い
 <div style="position:relative;left:70px;top:200px">
 <img src="https://user-images.githubusercontent.com/48924412/65252606-3c6bf080-db34-11e9-8d16-3fcfcbab7c6e.jpg" width="200" style="transform: rotate(90deg);transform-origin:right top;">
 </div>
+
+### >19/9/20
+#### >>昼
+激ウマ　エビ豚骨つけ麺　もかすけ
+
+<img src="https://user-images.githubusercontent.com/48924412/65325724-962ef200-dbea-11e9-8fb4-3956fe2fbefe.jpg" width="300">
