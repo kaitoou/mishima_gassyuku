@@ -250,9 +250,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 並とは思えないボリューム！
 
-<div style="position:relative;left:-200px">
-<img src="https://user-images.githubusercontent.com/48924412/65013210-2fdd7180-d955-11e9-8ed8-99fd42b6f55d.jpg" width="200" style="transform: rotate(-90deg);transform-origin:right top;">
-</div>
+
+<img src="https://user-images.githubusercontent.com/48924412/65373557-0a849680-dcba-11e9-95e2-02befc4242c9.jpg" width="300">
 
 ### >19/9/18
 #### >>昼
@@ -260,9 +259,9 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ごちそうさまでしたm(_ _)m
 
-<div style="position:relative;left:70px;top:200px">
-<img src="https://user-images.githubusercontent.com/48924412/65120743-13ab0480-da29-11e9-867a-4a300a26a36b.jpg" width="200" style="transform: rotate(90deg);transform-origin:right top;">
-</div>
+
+<img src="https://user-images.githubusercontent.com/48924412/65373593-af9f6f00-dcba-11e9-91b5-743a1605fbc0.jpg" width="300" >
+
 
 ### >19/9/19
 #### >>昼
@@ -273,15 +272,14 @@ wifiルーターを借りれば通信速度もなかなか速い
 #### >>夜
 北口の牛タン
 
-<div style="position:relative;left:70px;top:200px">
-<img src="https://user-images.githubusercontent.com/48924412/65252606-3c6bf080-db34-11e9-8d16-3fcfcbab7c6e.jpg" width="200" style="transform: rotate(90deg);transform-origin:right top;">
-</div>
+
+<img src="https://user-images.githubusercontent.com/48924412/65373594-af9f6f00-dcba-11e9-9ac0-dc1dbf741ad7.jpg" width="300" >
 
 ### >19/9/20
 #### >>昼
 激ウマ　エビ豚骨つけ麺　もかすけ
 
-<img src="https://user-images.githubusercontent.com/48924412/65325724-962ef200-dbea-11e9-8fb4-3956fe2fbefe.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/48924412/65373597-b332f600-dcba-11e9-85bc-12bbb1dc2ef8.jpeg" width="300">
 
 ### >19/9/21
 #### >>昼
