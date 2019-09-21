@@ -240,9 +240,9 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 近くのG系ラーメン屋さん
 ふじもり
-<div style="position:relative;left:70px;top:200px">
-<img src="https://user-images.githubusercontent.com/48924412/65251764-e0ed3300-db32-11e9-8e4f-1030e1903695.jpg" width="200" style="transform: rotate(90deg);transform-origin:right top;">
-</div>
+
+<img src="https://user-images.githubusercontent.com/48924412/65373523-934f0280-dcb9-11e9-9e33-d158b18fd3eb.jpg" width="300">
+
 
 ### >19/9/17
 #### >>昼
