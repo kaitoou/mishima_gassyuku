@@ -108,6 +108,15 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ・お土産屋さんに連れて行っていただきありがとうございましたm(_ _)m
 
+## 5日目　19/9/21
+
+・[Mishima.syk #14](https://connpass.com/event/137642/)に参加させていただく
+
+・https://plot.ly/dash/
+
+
+
+
 
 
 ## [nimの勉強](https://docs.google.com/document/d/1hReGudWqvT0wp_ZeaoK2Jnh55IkOp7fv0iRXtI7MTwg/edit)
@@ -212,3 +221,9 @@ wifiルーターを借りれば通信速度もなかなか速い
 激ウマ　エビ豚骨つけ麺　もかすけ
 
 <img src="https://user-images.githubusercontent.com/48924412/65325724-962ef200-dbea-11e9-8fb4-3956fe2fbefe.jpg" width="300">
+
+### >19/9/21
+#### >>昼
+旨味がすごい　イワシの漬け丼
+
+<img src="https://user-images.githubusercontent.com/48924412/65367877-7099fb00-dc73-11e9-900f-561187babea8.jpg" width="300">
