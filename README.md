@@ -172,6 +172,18 @@ wifiルーターを借りれば通信速度もなかなか速い
 本当にありがとうございました。
 
 
+## 6日目 19/9/22（番外編）
+
+・少し観光してから大阪に帰ることに
+
+・念願の沼津深海魚水族館へ
+
+・深海魚しかいない水族館はとても楽しかったですが、かなり混んでいたので、
+
+　５時間滞在予定が、２時間に。
+
+<img src="https://user-images.githubusercontent.com/48924412/65384758-ff387600-dd60-11e9-9ccc-78a79daa0681.jpg" width="300" >
+
 
 
 
@@ -235,8 +247,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ## ★三島グルメ紀行 ★
 
-### >19/9/16
-#### >>夜
+### 【19/9/16】
+#### 【夜】
 
 近くのG系ラーメン屋さん
 ふじもり
@@ -244,8 +256,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 <img src="https://user-images.githubusercontent.com/48924412/65373523-934f0280-dcb9-11e9-9e33-d158b18fd3eb.jpg" width="300">
 
 
-### >19/9/17
-#### >>昼
+### 【19/9/17】
+#### 【昼】
 超がっつり系食堂　しんちゃん
 
 並とは思えないボリューム！
@@ -253,8 +265,8 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 <img src="https://user-images.githubusercontent.com/48924412/65373557-0a849680-dcba-11e9-95e2-02befc4242c9.jpg" width="300">
 
-### >19/9/18
-#### >>昼
+### 【19/9/18】
+#### 【昼】
 激ウマ　お寿司　もろこし
 
 ごちそうさまでしたm(_ _)m
@@ -263,35 +275,40 @@ wifiルーターを借りれば通信速度もなかなか速い
 <img src="https://user-images.githubusercontent.com/48924412/65373593-af9f6f00-dcba-11e9-91b5-743a1605fbc0.jpg" width="300" >
 
 
-### >19/9/19
-#### >>昼
+### 【19/9/19】
+#### 【昼】
 写真を撮り忘れる痛恨のミス
 
 油そば(広義タピオカ)　七転八起
 
-#### >>夜
+#### 【夜】
 北口の牛タン
 
 
 <img src="https://user-images.githubusercontent.com/48924412/65373594-af9f6f00-dcba-11e9-9ac0-dc1dbf741ad7.jpg" width="300" >
 
-### >19/9/20
-#### >>昼
+### 【19/9/20】
+#### 【昼】
 激ウマ　エビ豚骨つけ麺　もかすけ
 
 <img src="https://user-images.githubusercontent.com/48924412/65373597-b332f600-dcba-11e9-85bc-12bbb1dc2ef8.jpeg" width="300">
 
-### >19/9/21
-#### >>昼
+### 【19/9/21】
+#### 【昼】
 旨味がすごい　イワシの漬け丼　磯はる
 
 <img src="https://user-images.githubusercontent.com/48924412/65367877-7099fb00-dc73-11e9-900f-561187babea8.jpg" width="300">
 
-#### >>夜
+#### 【夜】
 激ウマ　ジャンボポークソテー
 
 <img src="https://user-images.githubusercontent.com/48924412/65373284-4e759c80-dcb6-11e9-9672-8bbd435470ec.jpg" width="300">
 
+### 【19/9/22】
+#### 【昼】
+海鮮丼　佐政　セットが豪華
+
+<img src="https://user-images.githubusercontent.com/48924412/65384759-ffd10c80-dd60-11e9-8a89-259fb914fe8e.JPG" width = "300">
 
 
 三島のご飯はどれもとても美味しかったので、必ずまた個人的に来たいと思ってます笑
