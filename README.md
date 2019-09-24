@@ -118,10 +118,12 @@ wifiルーターを借りれば通信速度もなかなか速い
 
 ・拙いプレゼン(飯テロ)をしました。
 
-<img src="https://user-images.githubusercontent.com/48924412/65373003-5fbcaa00-dcb2-11e9-8f7f-84cf3630a849.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/48924412/65373002-5f241380-dcb2-11e9-9ea6-46fd2b25ace2.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/48924412/65483835-9542dc80-ded8-11e9-98cb-dc1df97d93aa.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/48924412/65483888-c3c0b780-ded8-11e9-8a28-e1f34bdddfcd.jpg" width="300">
 
-・皆さんのプレゼンはとてもレベルが高く、理解しきれていない部分が多々あるので、勉強したいと思いますm(_ _)m
+・皆さんのプレゼンはとてもレベルが高く、理解しきれていない部分が多々あるので、
+
+   勉強したいと思いますm(_ _)m
 
 # 総括
 
